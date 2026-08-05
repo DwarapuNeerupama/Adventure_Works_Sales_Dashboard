@@ -7,10 +7,13 @@ The dashboard covers three areas: an executive-level overview, a deeper look at 
 ## Dashboard Preview 
 ## Executive Dashboard
 <img width="1131" height="768" alt="Page 1 Executive Dashboard" src="https://github.com/user-attachments/assets/3b2ea3e2-dc5c-422f-83e0-37ea13c22107" />
+
 ## Sales Performance
 <img width="1330" height="769" alt="Page 2 Sales Performance" src="https://github.com/user-attachments/assets/712c19e9-dd9f-4ff9-a8f1-807a4f4083cb" />
+
 ## Customer Insights
 <img width="1399" height="732" alt="Page 3 Customer Insights" src="https://github.com/user-attachments/assets/7a1414a7-9fae-4e52-8790-0fa21151fd49" />
+
 ## Tools Used
 
 - Power BI Desktop
